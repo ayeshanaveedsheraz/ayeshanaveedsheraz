@@ -97,6 +97,3 @@ Currently, I am developing my skills in **Verilog, SystemVerilog, ASIC Design Fl
 ## 📫 Connect With Me 
 - LinkedIn: [Ayesha Naveed](https://www.linkedin.com/in/ayesha-naveed-34b26a399/)
 -  GitHub: [Ayesha Naveed](https://github.com/ayeshanaveedsheraz)
-
-* LinkedIn: [Ayesha Naveed](https://www.linkedin.com/in/ayesha-naveed-34b26a399/)
-* GitHub: [Ayesha Naveed](https://github.com/ayeshanaveedsheraz)
